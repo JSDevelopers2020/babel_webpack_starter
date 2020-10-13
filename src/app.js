@@ -1,3 +1,8 @@
+import {person, sayHello } from './lib';
+
+console.log(person.name);
+console.log(person.sayHello("Raniel"));
+
 const greeting = 'Hello World';
 console.log(greeting);
 
